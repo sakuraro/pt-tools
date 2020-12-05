@@ -1,0 +1,5 @@
+qbittorrent/config/
+qbittorrent/data/
+qbittorrent/downloads/
+
+rclone/rclone.conf
